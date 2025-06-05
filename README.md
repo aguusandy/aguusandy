@@ -13,7 +13,7 @@ I'm also interested in **Artificial Intelligence** and its application to real-w
 ##  Knowledge
 
 ### 🚀 Experience
-
+| Icon | Technology |
 |------|------------|
 | <img src="https://skillicons.dev/icons?i=react" width="30"/> | React.js |
 | <img src="https://skillicons.dev/icons?i=jquery" width="30"/> | jQuery |
@@ -21,7 +21,7 @@ I'm also interested in **Artificial Intelligence** and its application to real-w
 | <img src="https://skillicons.dev/icons?i=postgresql" width="30"/> | PostgreSQL |
 
 ### 🧠 Other Knowledge
-
+| Icon | Technology |
 |------|------------|
 | <img src="https://skillicons.dev/icons?i=angular" width="30"/> | Angular |
 | <img src="https://skillicons.dev/icons?i=python" width="30"/> | Python (Celery, RabbitMQ, PyTorch, Scikit-learn) |
@@ -35,7 +35,7 @@ I'm also interested in **Artificial Intelligence** and its application to real-w
 ---
 ---
 
-## Languages
+## 🗣️ Languages
 - Spanish
 - English
 
