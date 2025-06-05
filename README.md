@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Agustin Andino
 
-🎓 I'm a **Computer Engineering** student at the **National University of the Litoral**.
-I've completed all my courses and am currently finishing my Final Degree Project.  
+### 🎓 I'm a **Computer Engineering** student at the **National University of the Litoral**.I've completed all my courses and am currently finishing my Final Degree Project.
 
+#### 💼 I currently work as a **web developer** with **Django REST and React JS** at the **Ministry of Health of the Province of Entre Ríos**.
 
-💼 I currently work as a **web developer** with **Django REST and React JS** at the **Ministry of Health of the Province of Entre Ríos**.
-
-I'm also interested in **Artificial Intelligence** and its application to real-world problem solving.
-
----
+### 🧠 I'm also interested in **Artificial Intelligence** and its application to real-world problem solving.
 
 ##  Knowledge
 
