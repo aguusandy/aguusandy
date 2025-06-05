@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Agustin Andino <img src="https://flagcdn.com/ar.svg" width="40" height="20" alt="Argentina"/>
+# 👋 Hi, I'm Agustin Andino <img src="https://flagcdn.com/ar.svg" width="30" height="20" alt="Argentina"/>
 
 ### 🎓 I'm a **Computer Engineering** student at the **National University of the Litoral**. I've completed all my courses and am currently finishing my Final Degree Project.
 
@@ -34,8 +34,8 @@
 ---
 
 ## 🗣️ Languages
-- Spanish
-- English
+- <img src="https://flagcdn.com/ar.svg" width="15" height="9" alt="España"/> Spanish
+- <img src="https://flagcdn.com/us.svg" width="15" height="9 alt="United States"/> English
 
 ## 📫 Contact
 
