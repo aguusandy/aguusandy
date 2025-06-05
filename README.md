@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Agustin Andino 🇦🇷
+# 👋 Hi, I'm Agustin Andino <img src="https://flagcdn.com/ar.svg" width="20" alt="Argentina"/>
 
 ### 🎓 I'm a **Computer Engineering** student at the **National University of the Litoral**. I've completed all my courses and am currently finishing my Final Degree Project.
 
