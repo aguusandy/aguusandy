@@ -42,4 +42,4 @@ I'm also interested in **Artificial Intelligence** and its application to real-w
 ## 📫 Contact
 
 - 📧 andino-agustin@hotmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/aguusandy/)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/agustin-andino/)  
