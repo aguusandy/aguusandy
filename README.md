@@ -21,6 +21,8 @@
 |------|------------|
 | <img src="https://skillicons.dev/icons?i=angular" width="30"/> | Angular |
 | <img src="https://skillicons.dev/icons?i=python" width="30"/> | Python (Celery, RabbitMQ, PyTorch, Scikit-learn) |
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="30"/> | TensorFlow |
+| <img src="https://skillicons.dev/icons?i=sklearn" width="30"/> | Scikit-Learn |
 | <img src="https://skillicons.dev/icons?i=mysql" width="30"/> | MySQL |
 | <img src="https://skillicons.dev/icons?i=sqlite" width="30"/> | SQLite |
 | <img src="https://skillicons.dev/icons?i=java" width="30"/> | Java |
