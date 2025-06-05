@@ -34,8 +34,8 @@
 ---
 
 ## 🗣️ Languages
-- <img src="https://flagcdn.com/ar.svg" width="15" height="9" alt="España"/> Spanish
-- <img src="https://flagcdn.com/us.svg" width="15" height="9 alt="United States"/> English
+- <img src="https://flagcdn.com/es.svg" width="15" height="9" alt="España"/> Spanish
+- <img src="https://flagcdn.com/us.svg"  width="15" height="9" alt="United States"/> English
 
 ## 📫 Contact
 
