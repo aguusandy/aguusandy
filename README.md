@@ -11,10 +11,10 @@
 ### 🚀 Experience
 | Icon | Technology |
 |------|------------|
-| <img src="https://skillicons.dev/icons?i=react" width="30"/> | React.js |
-| <img src="https://skillicons.dev/icons?i=jquery" width="30"/> | jQuery |
 | <img src="https://skillicons.dev/icons?i=django" width="30"/> | Django & Django REST |
 | <img src="https://skillicons.dev/icons?i=postgresql" width="30"/> | PostgreSQL |
+| <img src="https://skillicons.dev/icons?i=react" width="30"/> | React.js |
+| <img src="https://skillicons.dev/icons?i=jquery" width="30"/> | jQuery |
 
 ### 🧠 Other Knowledge
 | Icon | Technology |
