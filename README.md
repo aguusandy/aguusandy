@@ -23,7 +23,6 @@
 | <img src="https://skillicons.dev/icons?i=pytorch" width="30"/> | PyTorch |
 | <img src="https://skillicons.dev/icons?i=sklearn" width="30"/> | Scikit-Learn |
 | <img src="https://skillicons.dev/icons?i=docker" width="30"/> | Docker |
-<!--| <img src="https://skillicons.dev/icons?i=kubernetes" width="30"/> | Kubernetes | -->
 | <img src="https://skillicons.dev/icons?i=spring" width="30"/> | Spring |
 | <img src="https://skillicons.dev/icons?i=angular" width="30"/> | Angular |
 | <img src="https://skillicons.dev/icons?i=mysql" width="30"/> | MySQL |
